@@ -46,6 +46,11 @@ def sum(turn, score):
         for i in range(len(dices)):
             if(dices[i] == turn + 1):
                 score = score + dices[i]
+    elif(turn == 6):
+        tempScore
+        for j in range(5):
+            for k in range(len(dices)):
+                if()
     return score
 
 if __name__ == "__main__": main()
